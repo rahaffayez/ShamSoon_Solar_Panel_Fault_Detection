@@ -23,7 +23,7 @@ This project aims to improve the efficiency of solar panel maintenance by automa
 ### Classification Dataset
 The classification dataset is sourced from Kaggle:  
 [Faulty Solar Panel Images on Kaggle](https://www.kaggle.com/datasets/kiyoshi732/faulty-solar-panel-images).  
-This dataset contains labeled images of solar panels, categorized as faulty or non-faulty.
+This dataset contains labeled images of solar panels, categorized as Bird-drop, Clean, Dusty, Electrical-damage, Physical-Damage, Snow-Covered..
 
 ### Detection Dataset
 The detection dataset is sourced from Roboflow:  
