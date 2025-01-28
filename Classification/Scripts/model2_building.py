@@ -1,3 +1,4 @@
+
 import tensorflow as tf
 from tensorflow.keras.applications import MobileNetV2
 from tensorflow.keras import layers, models
@@ -23,4 +24,5 @@ def build_smaller_model(img_height, img_width, num_classes):
     # Create the final model
     model = models.Model(inputs, outputs)
     return model
+
 
